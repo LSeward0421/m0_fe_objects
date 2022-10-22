@@ -9,23 +9,19 @@ var person = {
   weight: "160 lbs"
  };
 
-var post = [
-{ 
+var post = {
   imageSrc: "./images/beach.png",
   caption: "At the beach with my besties", 
   timestamp: "4:37 PM August 13, 2019",
-  number_likes: 0,
+  numberLikes: 0,
   comments: []
-}
-];
+};
 
 
-var post2 = [
-{
+var post2 = {
       imageSrc: "./images/holiday-party.png",
       caption: "What a great holiday party omg",
       timestamp: "11:37 PM December 31, 2019",
       numberLikes: 13,
       comments: []
-}
-];
+};
